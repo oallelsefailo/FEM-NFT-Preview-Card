@@ -22,7 +22,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Source](https://github.com/oallelsefailo/FEM-NFT-Preview-Card.git)
-- Live Site URL: [Github Pages](https://your-live-site-url.com)
+- Live Site URL: [Github Pages](https://oallelsefailo.github.io/FEM-NFT-Preview-Card/)
 
 ## My process
 
